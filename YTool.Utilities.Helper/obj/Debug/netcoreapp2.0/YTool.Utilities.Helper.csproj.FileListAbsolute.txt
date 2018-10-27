@@ -1,0 +1,16 @@
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.deps.json
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.csproj.CoreCompileInputs.cache
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.AssemblyInfoInputs.cache
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.AssemblyInfo.cs
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+C:/Users/sarah/source/repos/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb
+/home/amr/Documents/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.deps.json
+/home/amr/Documents/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+/home/amr/Documents/YTools/YTool.Utilities.Helper/bin/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb
+/home/amr/Documents/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.csproj.CoreCompileInputs.cache
+/home/amr/Documents/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.AssemblyInfoInputs.cache
+/home/amr/Documents/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.AssemblyInfo.cs
+/home/amr/Documents/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.dll
+/home/amr/Documents/YTools/YTool.Utilities.Helper/obj/Debug/netcoreapp2.0/YTool.Utilities.Helper.pdb

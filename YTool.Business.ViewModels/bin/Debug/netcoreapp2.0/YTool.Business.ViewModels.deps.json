@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "YTool.Business.ViewModels/1.0.0": {
+        "dependencies": {
+          "YTool.Bases": "1.0.0"
+        },
+        "runtime": {
+          "YTool.Business.ViewModels.dll": {}
+        }
+      },
+      "YTool.Bases/1.0.0": {
+        "runtime": {
+          "YTool.Bases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YTool.Business.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YTool.Bases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿@model YTool.Business.ViewModels.AudioFileViewModel
+<div class="panel panel-default">
+    <div class="panel-heading">Audio File Information</div>
+    <div class="panel-body">
+        <div class="container">
+
+            <dl class="dl-horizontal">
+                <dt><label class="form-label">File Name </label></dt>
+                <dd>@Model.fileName</dd>
+                <dt><label class="form-label">File Path </label></dt>
+                <dd>@Model.filePath</dd>
+                <dt><label class="form-label">Extention </label></dt>
+                <dd>@Model.ext</dd>
+                <dt><label class="form-label">File Url </label></dt>
+                <dd><a href="@Model.fileWebsitePath">@Model.fileWebsitePath</a></dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+

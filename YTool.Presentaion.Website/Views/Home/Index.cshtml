@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<br />
+<form class="form-inline text-center" id="frmYoutube">
+    <div class="form-group mb-2">
+        <label for="staticEmail2" class="sr-only">Youtube URL</label>
+        <input id="youtubeUrl" name="youtubeUrl" type="text" size="100" value="https://www.youtube.com/watch?v=qcN8GkfaOZo" class="form-control" placeholder="Youtube url..">
+    </div>
+    <button type="button" id="btnYoutubeSearch" class="btn btn-primary mb-2">Submit</button>
+</form>
+<br />
+
+<div class="progress">
+    <div id="dynamic" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+        <span id="current-progress"></span>
+    </div>
+</div>
+
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <div id="divVideoResult"></div>
+    </div>
+    <div class="col-md-6">
+        <div id="divRecognizeAudioFile"></div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+
+        <div id="divDownloadFile"></div>
+
+    </div>
+    <div class="col-md-6">
+
+        <div id="divSplitAudioFile"></div>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div id="divSearchResult"></div>
+    </div>
+</div>
+
+
+
+@section scripts
+    {
+    <script>
+        var ParseUrlUrl = '@Url.Action("ParseUrl")';
+        var DownloadAudioFileUrl = '@Url.Action("DownloadAudioFile")'
+        var SerachYoutubeUrl = '@Url.Action("SerachYoutube")'
+        var SplitAudioFileUrl = '@Url.Action("SplitAudioFile")';
+        var RecognizeAudioFileUrl = '@Url.Action("RecognizeAudioFile")';
+    </script>
+    <script src="@Url.Content("~/js/app/index.js")"></script>
+    <style>
+        .progress {
+            margin: 10px;
+            width: 100%;
+        }
+    </style>
+}
